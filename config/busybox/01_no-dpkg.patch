@@ -1,0 +1,7 @@
+--- a/.config	2023-11-30 12:30:17.864515450 +0100
++++ b/.config	2023-11-30 12:35:52.391543037 +0100
+@@ -168,2 +168,2 @@
+-CONFIG_DPKG=y
+-CONFIG_DPKG_DEB=y
++# CONFIG_DPKG is not set
++# CONFIG_DPKG_DEB is not set

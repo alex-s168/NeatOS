@@ -1,0 +1,7 @@
+--- a/.config	2023-11-30 12:30:17.864515450 +0100
++++ b/.config	2023-11-30 12:35:52.391543037 +0100
+@@ -179,2 +179,2 @@
+-CONFIG_RPM=y
+-CONFIG_RPM2CPIO=y
++# CONFIG_RPM is not set
++# CONFIG_RPM2CPIO is not set
